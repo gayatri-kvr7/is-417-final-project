@@ -14,3 +14,4 @@ The dataset used will be the tweets collected for a certain duration and the sto
 Twitter data is obtained using the sns.scrape library in python.
 Stock price data is obtained from Yahoo Finance
 
+Granger causality is based on linear regression, but the correlation between stocks and moods is certainly non linear. Granger causality can be used to map the correlation between the two obtained time series models.
